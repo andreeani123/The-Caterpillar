@@ -1,0 +1,33 @@
+﻿  Omida.cpp
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(22,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(27,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(62,51): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(88,27): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(95,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(101,30): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(120,28): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(125,30): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(128,36): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(134,35): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(153,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(161,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(162,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(163,26): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(165,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(168,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(146,20): warning C4101: 'zvec': unreferenced local variable
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(146,14): warning C4101: 'yvec': unreferenced local variable
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(146,8): warning C4101: 'xvec': unreferenced local variable
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(186,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(190,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(194,62): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(267,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(271,18): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(275,18): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\andre\Desktop\Cod Proiect\Omida\Omida\Omida.cpp(279,18): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating code
+  0 of 16 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Omida.vcxproj -> C:\Users\andre\Desktop\Cod Proiect\Omida\Release\Omida.exe
